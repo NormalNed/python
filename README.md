@@ -9,8 +9,6 @@ is often compared to Tcl, Perl, Java, JavaScript, Visual Basic or
 Scheme.  To find out more about what Python can do for you, point your
 browser to http://www.python.org/.
 
-##Building and Installation
-
 # 🔨 Building
 Below you will find anything you need to know.
 
